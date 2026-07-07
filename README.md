@@ -71,6 +71,4 @@ I learn, test, break things, fix them and slowly improve.
 
 <div align="center">
 
-### Learning. Building. Breaking. Fixing. Moving forward.
-
 </div>
