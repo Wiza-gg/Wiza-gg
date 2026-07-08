@@ -67,8 +67,6 @@ I learn, test, break things, fix them and slowly improve.
 - Getting better with Git and GitHub
 - Building useful small tools and systems
 
----
-
 <div align="center">
 
 </div>
