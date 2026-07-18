@@ -2,71 +2,89 @@
 
 # Hello, I'm Wizard
 
-### Hobbyist Developer • Discord Enthusiast • Always Learning
+### Hobbyist Developer • Discord Server Builder • Technical & Community Manager
 
-I am a regular person who is interested in programming, Discord communities, bots and technical tools.
+I work at the intersection of technology, community management and practical project development.
 
-I am not a professional developer yet.  
-All programming languages, tools and technologies listed here are currently at a **hobby / learning level** for me.
+My main interests include Discord communities, bots, automation, internal systems and tools that solve real problems.
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-I am learning programming step by step through practice, experiments and real tasks.
+I am a hobbyist developer with a practical understanding of programming logic, project structure and software development workflows.
 
-Previously, I tried working with **C#**.  
-Now I am learning more about **TypeScript**, **JavaScript**, **Node.js**, Discord bot development, databases and backend basics.
+I do not usually write large projects entirely from scratch. Instead, I focus on understanding the main goal, breaking it down into smaller tasks, reviewing implementations, identifying problems and improving the final result.
 
-I mostly enjoy working with Discord-related things, server systems, moderation tools, community structure and small automation ideas.
+I often use AI-assisted development tools. I guide the development process, review generated code, test how it works and adapt it to the actual needs of a project.
 
-I do not pretend to know everything.  
-I learn, test, break things, fix them and slowly improve.
+A major part of my work is related to building and configuring Discord servers. I design server structures, organize categories and channels, configure roles and permissions, set up bots, moderation, verification, support systems and other internal tools.
 
----
+I have participated in building and configuring many Discord communities, which has given me a practical understanding of both the technical side of the platform and the principles behind creating servers that are clear, convenient and manageable.
 
-## What I am interested in
+I also have basic experience with visual design and presentation. I use Canva, Discord-related tools and other accessible solutions to create banners, informational materials, channel visuals and consistent project branding.
 
-- Programming basics
-- Discord bot development
-- Discord server systems
-- Moderation and support tools
-- Community organization
-- Backend basics
-- Databases
-- Git and GitHub
-- Project structure
-- Automation ideas
+I am not a professional graphic designer, but I can create clear and practical visual materials for community and project needs.
+
+Alongside technical work, I am involved in management, community organization and project development. This includes planning systems, organizing workflows, improving moderation and support tools, and turning ideas into clear technical requirements.
 
 ---
 
-## Technologies I am learning and using
+## What I Do
 
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs)
-![discord.js](https://img.shields.io/badge/discord.js-20232A?style=for-the-badge&logo=discord)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode)
-![C#](https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp)
+* Build, organize and configure Discord servers
+* Design categories, channels, roles and permission systems
+* Configure Discord bots and internal automation
+* Develop and improve Discord bots
+* Review, test and refine code
+* Create technical requirements and project plans
+* Organize community and team workflows
+* Improve moderation, support and internal tools
+* Create basic visual and informational materials
+* Learn through real projects and practical experimentation
 
 ---
 
-## Current focus
+## Languages, Technologies & Tools
 
-- Learning TypeScript and JavaScript
-- Understanding how Discord bots work
-- Learning backend logic
-- Working with databases
-- Improving project structure
-- Getting better with Git and GitHub
-- Building useful small tools and systems
+I have practical or contextual familiarity with the following languages, technologies and tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp" alt="C Sharp">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs" alt="Node.js">
+  <img src="https://img.shields.io/badge/discord.js-20232A?style=for-the-badge&logo=discord" alt="discord.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma" alt="Prisma">
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Canva-20232A?style=for-the-badge&logo=canva" alt="Canva">
+</p>
+
+---
+
+## Current Focus
+
+* TypeScript and Node.js
+* Discord bot development
+* Discord server building and development
+* Bot configuration and server automation
+* Backend and database fundamentals
+* Project architecture and maintainability
+* Git and GitHub workflows
+* Technical project management
+* Community systems and workflow organization
+* Basic visual design for projects and communities
+
+---
 
 <div align="center">
+
+I am still learning, but I prefer learning by building, testing and improving real projects.
 
 </div>
