@@ -58,7 +58,9 @@ I have practical or contextual familiarity with the following languages, technol
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs" alt="Node.js">
   <img src="https://img.shields.io/badge/discord.js-20232A?style=for-the-badge&logo=discord" alt="discord.js">
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-20232A?style=for-the-badge&logo=telegram" alt="Telegram Bot API">
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql" alt="MySQL">
   <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma" alt="Prisma">
   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" alt="GitHub">
