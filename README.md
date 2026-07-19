@@ -64,7 +64,7 @@ I have practical or contextual familiarity with the following languages, technol
   <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/PyCharm-20232A?style=for-the-badge&logo=pycharm" alt="PyCharm">
-  <img src="https://img.shields.io/badge/JetBrains_Rider-20232A?style=for-the-badge&logo=rider" alt="JetBrains Rider">
+  <img src="https://img.shields.io/badge/JetBrains_Rider-20232A?style=for-the-badge&logo=rider" alt="Rider">
   <img src="https://img.shields.io/badge/Canva-20232A?style=for-the-badge&logo=canva" alt="Canva">
 </p>
 
